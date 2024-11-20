@@ -1,0 +1,7 @@
+[gd_scene format=3 uid="uid://c1ainq86shl6q"]
+
+[node name="CharacterBody2D" type="CharacterBody2D"]
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
+animation = &"Jump"
+autoplay = "Idle"
